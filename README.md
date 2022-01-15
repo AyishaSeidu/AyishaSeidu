@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyishaSeidu
 - 👀 I’m interested in Fron-end development 
-- 🌱 I’m currently learning fron-end development with React JS
+- 🌱 I’m currently learning front-end development with React JS
 - 📫 You can contact me on ayishetuseidu13@gmail.com
 
 <!---
