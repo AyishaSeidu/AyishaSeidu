@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @AyishaSeidu
-- 👀 I’m interested in Front-end development 
-- 🌱 I’m currently learning front-end development with React JS
+- 👋 Hi, I’m Ayisha
+- 👀 Experienced C# Developer | Enterprise Software Architecture
+- 🌱 Specialising in designing and building robust enterprise software, message-based systems, and REST APIs.
+- 🌱 Passionate about agile methodologies and effective team collaboration
 - 📫 You can contact me on ayishetuseidu13@gmail.com
+- 🥂 Let's build something amazing together!
 
 <!---
 AyishaSeidu/AyishaSeidu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
